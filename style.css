@@ -18,7 +18,7 @@ body {
 .logo {
   width: 120px;
   height: 120px;
-  background: url('/khusdilPFP.png') no-repeat top;
+  background: url('khusdilPFP.png') no-repeat top;
   background-size: cover;
   border-radius: 50%;
   border: 1px solid white;
